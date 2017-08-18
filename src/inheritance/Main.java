@@ -42,7 +42,7 @@ public class Main {
         Team dogTeam= new Team(dogi, dogi, dogi);
 
         System.out.println( firstRace.winnerString(dogTeam, animalTeam));
-        
+
 
     }
 }
