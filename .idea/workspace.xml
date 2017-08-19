@@ -2,50 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bee394fc-3e3c-4783-8b91-317cf0aba37b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/Movable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/Submergeable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/animal/Animal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/animal/Dog.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/animal/Eagle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/animal/Fish.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/triathion/Medium.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/triathion/Race.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/triathion/Team.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/triathion/Triathion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/vehicles/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/vehicles/Helicopter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/vehicles/Submarine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/vehicles/Vehicle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/CashRegister.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/dishes/AbstractDish.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/dishes/BusinessLunch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/dishes/SideDish.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/dishes/StandardDish.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/orders/Order.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/orders/OrderRegistry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/orders/Priority.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/restaurant/staff/WaitStaffMember.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/Movable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/Submergeable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/animal/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/animal/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/animal/Eagle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/animal/Fish.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/triathion/Medium.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/triathion/Race.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/triathion/Team.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/triathion/Triathion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/vehicles/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/vehicles/Helicopter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/vehicles/Submarine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/src/inheritance/vehicles/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github/untitled1.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LeafPic" afterPath="$PROJECT_DIR$/LeafPic" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java-exercises-2017" afterPath="$PROJECT_DIR$/java-exercises-2017" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/il/co/electriccollege/inheritance/Main.java" afterPath="$PROJECT_DIR$/src/main/java/il/co/electriccollege/inheritance/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/Main.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/Main.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/Movable.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/Movable.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/Submergeable.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/Submergeable.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/animal/Animal.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/animal/Animal.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/animal/Dog.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/animal/Dog.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/animal/Eagle.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/animal/Eagle.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/animal/Fish.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/animal/Fish.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/triathion/Medium.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/triathion/Medium.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/triathion/Race.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/triathion/Race.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/triathion/Team.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/triathion/Team.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/triathion/Triathion.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/triathion/Triathion.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/vehicles/Car.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/vehicles/Car.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/vehicles/Helicopter.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/vehicles/Helicopter.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/vehicles/Submarine.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/vehicles/Submarine.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/out/production/untitled1/inheritance/vehicles/Vehicle.class" afterPath="$PROJECT_DIR$/src/github/out/production/untitled1/inheritance/vehicles/Vehicle.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/CashRegister.java" afterPath="$PROJECT_DIR$/src/github/restaurant/CashRegister.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/Main.java" afterPath="$PROJECT_DIR$/src/github/restaurant/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/dishes/AbstractDish.java" afterPath="$PROJECT_DIR$/src/github/restaurant/dishes/AbstractDish.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/dishes/BusinessLunch.java" afterPath="$PROJECT_DIR$/src/github/restaurant/dishes/BusinessLunch.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/dishes/SideDish.java" afterPath="$PROJECT_DIR$/src/github/restaurant/dishes/SideDish.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/dishes/StandardDish.java" afterPath="$PROJECT_DIR$/src/github/restaurant/dishes/StandardDish.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/orders/Order.java" afterPath="$PROJECT_DIR$/src/github/restaurant/orders/Order.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/orders/OrderRegistry.java" afterPath="$PROJECT_DIR$/src/github/restaurant/orders/OrderRegistry.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/orders/Priority.java" afterPath="$PROJECT_DIR$/src/github/restaurant/orders/Priority.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/restaurant/staff/WaitStaffMember.java" afterPath="$PROJECT_DIR$/src/github/restaurant/staff/WaitStaffMember.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/Main.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/Main.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/Movable.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/Movable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/Submergeable.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/Submergeable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/animal/Animal.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/animal/Animal.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/animal/Dog.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/animal/Dog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/animal/Eagle.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/animal/Eagle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/animal/Fish.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/animal/Fish.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/triathion/Medium.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/triathion/Medium.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/triathion/Race.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/triathion/Race.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/triathion/Team.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/triathion/Team.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/triathion/Triathion.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/triathion/Triathion.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/vehicles/Car.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/vehicles/Car.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/vehicles/Helicopter.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/vehicles/Helicopter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/vehicles/Submarine.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/vehicles/Submarine.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/src/inheritance/vehicles/Vehicle.java" afterPath="$PROJECT_DIR$/src/github/src/inheritance/vehicles/Vehicle.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/github/untitled1.iml" afterPath="$PROJECT_DIR$/src/github/untitled1.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,21 +59,140 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeafPic/app/src/main/AndroidManifest.xml">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/github/restaurant/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="17">
+              <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/il/co/electriccollege/inheritance/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeafPic/app/src/main/java/org/horaapps/leafpic/activities/MainActivity.java">
+      <file leaf-file-name="OrderRegistry.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/github/restaurant/orders/OrderRegistry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="80" column="85" lean-forward="false" selection-start-line="80" selection-start-column="85" selection-end-line="80" selection-end-column="85" />
+            <state relative-caret-position="663">
+              <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="47" />
+              <folding>
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#744#745#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#934#935#0" expanded="true" />
+                <element signature="e#976#977#0" expanded="true" />
+                <element signature="e#1171#1172#0" expanded="true" />
+                <element signature="e#1210#1211#0" expanded="true" />
+                <element signature="e#1284#1285#0" expanded="true" />
+                <element signature="e#1340#1341#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Order.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/github/restaurant/orders/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+              <folding>
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+                <element signature="e#995#996#0" expanded="true" />
+                <element signature="e#1039#1040#0" expanded="true" />
+                <element signature="e#1079#1080#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CashRegister.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/github/restaurant/CashRegister.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <folding>
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WaitStaffMember.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/github/restaurant/staff/WaitStaffMember.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#901#902#0" expanded="true" />
+                <element signature="e#942#943#0" expanded="true" />
+                <element signature="e#978#979#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
+                <element signature="e#1126#1127#0" expanded="true" />
+                <element signature="e#1176#1177#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StandardDish.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/github/restaurant/dishes/StandardDish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SideDish.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/github/restaurant/dishes/SideDish.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BusinessLunch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/github/restaurant/dishes/BusinessLunch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="89" lean-forward="false" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Priority.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/github/restaurant/orders/Priority.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -119,6 +239,12 @@
         <option value="$PROJECT_DIR$/src/inheritance/Movable.java" />
         <option value="$PROJECT_DIR$/src/inheritance/triathion/Triathion.java" />
         <option value="$PROJECT_DIR$/src/inheritance/Main.java" />
+        <option value="$PROJECT_DIR$/src/github/restaurant/CashRegister.java" />
+        <option value="$PROJECT_DIR$/src/github/restaurant/orders/OrderRegistry.java" />
+        <option value="$PROJECT_DIR$/src/github/restaurant/staff/WaitStaffMember.java" />
+        <option value="$PROJECT_DIR$/src/github/restaurant/orders/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/il/co/electriccollege/inheritance/Main.java" />
+        <option value="$PROJECT_DIR$/src/github/restaurant/Main.java" />
       </list>
     </option>
   </component>
@@ -144,6 +270,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -151,6 +278,56 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="github" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="github" />
@@ -191,11 +368,15 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/github/src/inheritance/vehicles/Vehicle.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -543,7 +724,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -571,7 +752,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -590,78 +771,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeafPic/app/src/main/java/org/horaapps/leafpic/activities/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="80" column="85" lean-forward="true" selection-start-line="80" selection-start-column="85" selection-end-line="80" selection-end-column="85" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/vehicles/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/vehicles/Helicopter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/vehicles/Submarine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/triathion/Medium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/triathion/Race.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/triathion/Triathion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/triathion/Team.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="30" lean-forward="false" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/out/production/untitled1/inheritance/vehicles/Car.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inheritance/vehicles/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/inheritance/vehicles/Submarine.java" />
     <entry file="file://$PROJECT_DIR$/src/inheritance/vehicles/Fish.java" />
     <entry file="file://$PROJECT_DIR$/src/inheritance/vehicles/Vehicle.java" />
@@ -809,71 +918,146 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/staff/WaitStaffMember.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/dishes/StandardDish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/orders/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/orders/Priority.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/dishes/AbstractDish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/dishes/BusinessLunch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/dishes/SideDish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/staff/WaitStaffMember.java" />
+    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/dishes/StandardDish.java" />
+    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/orders/Order.java" />
+    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/orders/Priority.java" />
+    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/dishes/AbstractDish.java" />
+    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/dishes/BusinessLunch.java" />
+    <entry file="file://$PROJECT_DIR$/java-exercises-2017/restaurant_exercises/src/main/java/il/co/electriccollege/restaurant/dishes/SideDish.java" />
     <entry file="file://$PROJECT_DIR$/LeafPic/app/src/main/java/org/horaapps/leafpic/activities/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="80" column="85" lean-forward="false" selection-start-line="80" selection-start-column="85" selection-end-line="80" selection-end-column="85" />
+        <state relative-caret-position="357">
+          <caret line="93" column="14" lean-forward="false" selection-start-line="93" selection-start-column="14" selection-end-line="93" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/dishes/AbstractDish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/dishes/BusinessLunch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="89" lean-forward="false" selection-start-line="17" selection-start-column="89" selection-end-line="17" selection-end-column="89" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/dishes/SideDish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/dishes/StandardDish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/orders/OrderRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="51" column="47" lean-forward="false" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="47" />
+          <folding>
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#976#977#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1210#1211#0" expanded="true" />
+            <element signature="e#1284#1285#0" expanded="true" />
+            <element signature="e#1340#1341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/orders/Priority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/staff/WaitStaffMember.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/orders/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+          <folding>
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/CashRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/il/co/electriccollege/inheritance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github/restaurant/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
