@@ -19,7 +19,7 @@ import org.junit.Test;
  */
 public class OrderRegistryTest {
 
-    @Test
+    @TestRest
     public void testRemoveDish(){
         CashRegistry cashRegistry = new CashRegistry();
         WaitStaffMember oleg = new WaitStaffMember("Oleg");
@@ -51,7 +51,7 @@ public class OrderRegistryTest {
         assert bus.getPrice() == 100;
     }
 
-    @Test
+    @TestRest
     public void testRegistryPriority(){
         CashRegistry cashRegistry = new CashRegistry();
         WaitStaffMember oleg = new WaitStaffMember("Oleg");

@@ -14,7 +14,7 @@ import java.util.Random;
 /**
  * Created by IrKha on 18.08.2017.
  */
-public class Test {
+public class TestRest {
     private static Random gen = new Random();
     public static void main(String[] args) {
         CashRegistry cashRegistry = new CashRegistry();
