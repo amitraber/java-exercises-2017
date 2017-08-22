@@ -10,7 +10,7 @@ public abstract class Media {
 	private Date publicationDate;
 	private MediaStatus status;
 	private Date checkOutDate;
-	private int idCounter = 0;
+	private static int idCounter = 0;
 
 	public Media(String name, String publisher, Date publicationDate, MediaStatus status) {
 		this.id = idCounter++;
