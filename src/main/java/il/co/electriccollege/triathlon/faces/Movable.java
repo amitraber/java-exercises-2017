@@ -1,13 +1,13 @@
 package il.co.electriccollege.triathlon.faces;
 
 /**
- * Created by IrKha on 14.08.2017.
+ * Created by borka on 8/15/2017.
  */
 public interface Movable {
-    public int move(int raceTime);
-    public int getBaseSpeed();
-    public void accelerate();
-    public int getCurrentSpeed();
-    public void decelerate();
-    public int getTopSpeed();
+    int move();
+    int getBaseSpeed ();
+    void accelerate ();
+    int getCurrentSpeed();
+    void decelarate();
+    int getTopSpeed ();
 }
