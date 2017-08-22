@@ -12,7 +12,7 @@ public abstract class Media {
 	private Date checkOutDate;
 	private static int idCounter = 0;
 
-	public Media(String name, String publisher, Date publicationDate, MediaStatus status) {
+	public Media() {
 		this.id = idCounter++;
 		this.name = name;
 		this.publisher = publisher;

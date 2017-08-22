@@ -4,10 +4,7 @@ import media.AudioBook;
 import media.Book;
 import media.MediaStatus;
 
-import java.text.DateFormat;
 import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
 
 public class RunMain {
@@ -16,8 +13,8 @@ public class RunMain {
 
 
 
-		Book b1 = new Book("book1", "Borka",Utils.convertDateFormat(getTime()), MediaStatus.AVAILABALE);
-        AudioBook ab1 = new AudioBook("audio1","Borka", date, MediaStatus.AVAILABALE);
+		Book b1 = new Book("book1", "Borka",Utils.convertDateFormat("20/11/2017"));
+        AudioBook ab1 = new AudioBook("audio1","Borka", Utils.convertDateFormat("12/03/2017"), MediaStatus.AVAILABALE);
 	}
 
 }

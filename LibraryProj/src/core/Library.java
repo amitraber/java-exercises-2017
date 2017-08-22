@@ -1,32 +1,42 @@
 package core;
 
+import java.util.Date;
 import java.util.HashMap;
 
-import media.Media;
+import media.*;
 
-public class Library extends Media{
+public class Library {
 
 	private HashMap bookSet;
-	
-	public void checkoutMedia(int media) {
+
+    public Library( HashMap <Integer, Media > bookSet) {
+        this.bookSet = bookSet;
+
+    }
+
+    public void checkoutMedia(int media) {
 	}
 	
 	public void returnMedia(int media) {
 	}
 	
 	public void addToLibrary(Media media) {
-	}
+    //    bookSet.put(media.getId(),media);
 
-	@Override
-	public int getFine() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+        if (media instanceof AudioBook)
+        {
+            return;
+        }
+        if (media instanceof Book)
+        {
+            return;
+        }
+        if (media instanceof Magazine)
+        {
+            return;
+        }
 
-	@Override
-	public int getMaxLoan() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-	
+    }
+
+
 }

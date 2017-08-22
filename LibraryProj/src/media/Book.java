@@ -4,9 +4,7 @@ import java.util.Date;
 
 public class Book extends Media{
 
-
-	public Book(String name, String publisher, Date publicationDate, MediaStatus status) {
-		super(id, name, publisher, publicationDate, status);
+	public Book() {
 	}
 
 	@Override

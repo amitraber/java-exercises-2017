@@ -6,7 +6,7 @@ public class Magazine extends Media{
  private String issueNo;
 
 	public Magazine(int id, String name, String publisher, Date publicationDate, MediaStatus status) {
-		super(id, name, publisher, publicationDate, status);
+		super();
 	}
 
 	@Override

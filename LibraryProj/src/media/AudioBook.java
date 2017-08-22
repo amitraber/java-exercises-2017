@@ -6,12 +6,12 @@ public class AudioBook extends Book {
 	private String Narrator;
 	private int Duration;
 
-	public AudioBook(String name, String publisher, Date publicationDate, MediaStatus status) {
-		super(name, publisher, publicationDate, status);
+	public AudioBook(String name, String publisher, Date publicationDate) {
+		super();
 	}
 
-	public AudioBook(int id, String name, String publisher, Date publicationDate, MediaStatus status, String narrator, int duration) {
-		super(name, publisher, publicationDate, status);
+	public AudioBook(int id, String name, String publisher, Date publicationDate, String narrator, int duration) {
+
 		Narrator = narrator;
 		Duration = duration;
 	}
