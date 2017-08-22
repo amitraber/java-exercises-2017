@@ -16,7 +16,7 @@ public class RunMain {
 
 
 
-		Book b1 = new Book("book1", "Borka",getTime(), MediaStatus.AVAILABALE);
+		Book b1 = new Book("book1", "Borka",Utils.convertDateFormat(getTime()), MediaStatus.AVAILABALE);
         AudioBook ab1 = new AudioBook("audio1","Borka", date, MediaStatus.AVAILABALE);
 	}
 
